@@ -1,0 +1,19 @@
+Form User có 1 dgv là gì? có phải mẫu báo cáo mình vừa viết xong(xl xong)
+Mã phản hồi là nó tạo như thế nào, tự động hay admin tự viết(xl xong)
+mấy cái tích liệt kê sao ko làm cbb mà làm checkbox, kiểu này viết code sao(xl xong)
+
+
+exception Login(xl xong)
+nhiều dấu cách cũng cho ???(xl xong)
+Chữ hoa thường chưa biết phân biệt được(xử lí đã xong)
+
+Account lớp với khoa nếu họ nhập bậy thì xử lí sao, nếu dùng cbb thì phải có bảng dữ
+liệu chứ ngồi ghi hết item lớp với khoa cho cbb là ko dc vì nhiều á(xl xong, Thuật nói xử lý)
+
+(Câu lệnh phân biệt hoa thường trong SQL)
+ALTER TABLE ACCOUNT
+ALTER COLUMN password varchar(50) COLLATE SQL_Latin1_General_CP1_CS_AS
+
+cái FullName trong account là ko để trống vì nó có xài nhiều như tìm kiếm, 
+hiển thị label trên các form
+Nên để username có 1 thôi, ko được sửa, ko được trùng, đáng lẻ nên để khóa chính mà thôi, sửa rắc rối

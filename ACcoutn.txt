@@ -1,0 +1,4 @@
+chỉnh sửa account --> Admin
+xóa tài khoản, chỉnh sửa quyền role (nếu chỉnh nó thì nó phải đăng xuất),
+chỉnh sửa mật khẩu, sắp xếp, tìm kiếm
+chỉnh sửa username user

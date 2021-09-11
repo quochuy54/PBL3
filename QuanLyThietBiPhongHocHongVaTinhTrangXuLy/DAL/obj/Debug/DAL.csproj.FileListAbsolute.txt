@@ -1,0 +1,70 @@
+E:\PBL3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\DAL.dll.config
+E:\PBL3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\DAL.dll
+E:\PBL3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\DAL.pdb
+E:\PBL3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\DTL.dll
+E:\PBL3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\EntityFramework.dll
+E:\PBL3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\PBL3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\DTL.pdb
+E:\PBL3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\EntityFramework.xml
+E:\PBL3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\PBL3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\PBL3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\PBL3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\PBL3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\obj\Debug\DAL.dll
+E:\PBL3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\obj\Debug\DAL.pdb
+C:\Users\Asus\Desktop\New folder (3)\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\DAL.dll.config
+C:\Users\Asus\Desktop\New folder (3)\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\DAL.dll
+C:\Users\Asus\Desktop\New folder (3)\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\DAL.pdb
+C:\Users\Asus\Desktop\New folder (3)\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\DTL.dll
+C:\Users\Asus\Desktop\New folder (3)\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Desktop\New folder (3)\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\New folder (3)\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\DTL.pdb
+C:\Users\Asus\Desktop\New folder (3)\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Desktop\New folder (3)\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\New folder (3)\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\New folder (3)\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\New folder (3)\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Asus\Desktop\New folder (3)\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\obj\Debug\DAL.dll
+C:\Users\Asus\Desktop\New folder (3)\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\Desktop\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\DAL.dll.config
+C:\Users\Admin\Desktop\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\DTL.dll
+C:\Users\Admin\Desktop\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\DTL.pdb
+C:\Users\Admin\Desktop\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Admin\Desktop\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\Desktop\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\obj\Debug\DAL.pdb
+C:\Users\Asus\Desktop\PBL-9\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\DAL.dll.config
+C:\Users\Asus\Desktop\PBL-9\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\DAL.dll
+C:\Users\Asus\Desktop\PBL-9\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\DAL.pdb
+C:\Users\Asus\Desktop\PBL-9\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\DTL.dll
+C:\Users\Asus\Desktop\PBL-9\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Desktop\PBL-9\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\PBL-9\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\DTL.pdb
+C:\Users\Asus\Desktop\PBL-9\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Desktop\PBL-9\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\PBL-9\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\PBL-9\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\PBL-9\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Asus\Desktop\PBL-9\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\obj\Debug\DAL.dll
+C:\Users\Asus\Desktop\PBL-9\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\obj\Debug\DAL.pdb
+C:\Users\Asus\Desktop\PBL-3\pbl32\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\DAL.dll.config
+C:\Users\Asus\Desktop\PBL-3\pbl32\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\DAL.dll
+C:\Users\Asus\Desktop\PBL-3\pbl32\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\DAL.pdb
+C:\Users\Asus\Desktop\PBL-3\pbl32\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\DTL.dll
+C:\Users\Asus\Desktop\PBL-3\pbl32\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Desktop\PBL-3\pbl32\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\PBL-3\pbl32\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\DTL.pdb
+C:\Users\Asus\Desktop\PBL-3\pbl32\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Desktop\PBL-3\pbl32\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\PBL-3\pbl32\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\PBL-3\pbl32\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\PBL-3\pbl32\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Asus\Desktop\PBL-3\pbl32\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\obj\Debug\DAL.dll
+C:\Users\Asus\Desktop\PBL-3\pbl32\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\DAL\obj\Debug\DAL.pdb
